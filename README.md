@@ -1,4 +1,3 @@
-# mzamomtsha.pps-challengers-web
 
 # Mzamomtsha Primary School Website
 ![project image](primary.jfif)
