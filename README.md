@@ -23,7 +23,7 @@ https://mzamomtsha-pps-challengers.netlify.com/
 ============================================
 
 Documentation of all code:
-![project image](Screenshot.png)
+![project image](Screenshot.png);
 ================================
 
 Comments:<br>
