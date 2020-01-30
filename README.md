@@ -19,7 +19,7 @@ Step 4: View the HTML Pages in Your Browser.
 ===========================================
 
 Issue tracker:<br>
-https://github.com/Mbu007/semi-final-project
+https://mzamomtsha-pps-challengers.netlify.com/
 ============================================
 
 Documentation of all code:
